@@ -1,0 +1,4 @@
+command:
+- convert
+config_path: config.yaml
+literals: {}
