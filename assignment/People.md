@@ -1,1 +1,0 @@
-Humans with arms. Like to [[Protest]].

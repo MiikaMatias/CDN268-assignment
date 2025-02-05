@@ -1,0 +1,3 @@
+A person who [[Work]]s for a living, as opposed to a [[Capitalist]] who does not. 
+- [[Canada]], and other western countries are facing a labour shortage, especially in regards to skilled labour. [[Jim Stanford]] argues that this shortage is manufactured to reduce the cost of labour, to the ultimate benefit of the [[Capitalist]]s. 
+- The modern worker is not invested in nearly as much as before. They're either a [[Migrant]] or trained by the Government through educational institutions. 

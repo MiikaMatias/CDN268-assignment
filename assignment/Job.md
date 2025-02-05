@@ -1,1 +1,0 @@
-[[People]] don't have these or if they do, they suck.

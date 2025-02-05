@@ -1,0 +1,1 @@
+In the context of the podcast, a migrant is a person who has moved to [[Canada]]. 

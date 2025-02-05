@@ -1,1 +1,0 @@
-A country with [[People]]

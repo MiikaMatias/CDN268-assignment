@@ -1,5 +1,4 @@
 ---
 title: Canada
-id: 20250205070013
+id: 20250205075855
 ---
-A country with [[20250205070012|People]]

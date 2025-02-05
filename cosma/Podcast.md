@@ -1,0 +1,5 @@
+---
+title: Podcast
+id: 20250205075851
+---
+Podcast as a medium is interesting in this report, as the informal tone of the hosts contrasts with the subject matter and expert interviews. The lack of multimedia presentation does harm the depth of the content, and rewinding as well as deep engagement with the material is hard.  
