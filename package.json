@@ -1,0 +1,16 @@
+{
+  "name": "cdn268-assignment",
+  "version": "1.0.0",
+  "description": "A webpage built on the Obsidian notetaking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphlab-fr/cosma": "^2.5.4",
+    "cosma": "^0.0.1"
+  }
+}
