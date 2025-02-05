@@ -1,8 +1,8 @@
 ---
 title: Work
-id: 20250205075849
+id: 20250205030214
 ---
-The means by which we earn money. During the previous decade, work has become perilous. The host – A [[20250205075845|Journalist]] – describes:
+The means by which we earn money. During the previous decade, work has become perilous. The host – A [[20250205030210|Journalist]] – describes:
 - CMG, a media union, estimated 10k layoffs during 2008-2013.
 - LA Times cuts 115 employees.
 - Getting massive paycuts. 
